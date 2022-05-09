@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Stavolta per davvero, fidati: questo è proprio un meta meme in italiano
 Use the left arrow to go back!
